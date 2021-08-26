@@ -4,7 +4,7 @@
 it is a  more efficent version of [is-Even](https://github.com/samuelmarina/is-even/)
 
 ## install
-` npm install  ifeven`
+` npm install  @brandonbr1/if-even`
 
 ## How to use it
 ```js
