@@ -4,8 +4,11 @@
 it is a  more efficent version of [is-Even](https://github.com/samuelmarina/is-even/)
 
 ## install
+` npm install  ifeven`
+
 ## How to use it
 ```js
+var ifeven = require('@Brandonbr1/is-even');
 
 isEven(1); //false
 isEven(2); //true
