@@ -5,4 +5,4 @@ while (counter !== Infinity) {
     counter++
 }  
 
-module.exports.ifEven = ifEven
+module.exports.ifeven = ifeven
